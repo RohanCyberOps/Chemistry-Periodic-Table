@@ -5,7 +5,7 @@
 
 **A dynamic and interactive periodic table built with modern web technologies.**  
 
-![Periodic Table](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Periodic_table.svg/1024px-Periodic_table.svg.png)
+![Periodic Table](https://media.giphy.com/media/13twUEuUnCrEju/giphy.gif?cid=790b76118gh7v5hna7ztr3xmc2xvx4vcaa36uv9y4qfp3crz&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 ### 🚀 Features  
 ✅ Interactive element details 📊  
